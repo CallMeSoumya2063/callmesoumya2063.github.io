@@ -130,10 +130,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: callmesoumya2063/callmesoumya2063.github.io
+    repo_id: "R_kgDOUNMY0A"
+    category: "General"
+    category_id: "DIC_kwDOUNMY0M4DEzGy"
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
